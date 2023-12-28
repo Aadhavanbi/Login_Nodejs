@@ -1,0 +1,88 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'qw@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'arun@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'sooraj@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT `id`, `user_name`, `email`, `password`, `mobile_number` FROM `users` AS `user` WHERE `user`.`email` = 'sooraj@gmail.com' LIMIT 1;"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): INSERT INTO `users` (`id`,`user_name`,`email`,`password`,`mobile_number`) VALUES (DEFAULT,?,?,?,?);"}
+{"level":"info","message":"User Add Successfully!"}
+{"level":"info","message":"AddUser ->Internal Server Error!"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"errors":[{"instance":{"email":"arun@gamil.com","id":null,"mobile_number":"ssdd","password":"$2b$10$Rq3zsQZcaOo8pOuSGubIkOs1aEAnkvVTL6rzUuEEaOekMmO2ZfP0q","user_name":"arun"},"message":"Validation is on mobile_number failed","origin":"FUNCTION","original":{"validatorArgs":[{}],"validatorName":"is"},"path":"mobile_number","type":"Validation error","validatorArgs":[{}],"validatorKey":"is","validatorName":"is","value":"ssdd"}],"level":"info","message":"AddUser ->Internal Server Error! Validation error: Validation is on mobile_number failed","name":"SequelizeValidationError","stack":"SequelizeValidationError: Validation error: Validation is on mobile_number failed\n    at InstanceValidator._validate (C:\\Users\\aadha\\UserLogin\\node_modules\\sequelize\\lib\\instance-validator.js:50:13)\n    at async InstanceValidator._validateAndRunHooks (C:\\Users\\aadha\\UserLogin\\node_modules\\sequelize\\lib\\instance-validator.js:60:7)\n    at async InstanceValidator.validate (C:\\Users\\aadha\\UserLogin\\node_modules\\sequelize\\lib\\instance-validator.js:54:12)\n    at async model.save (C:\\Users\\aadha\\UserLogin\\node_modules\\sequelize\\lib\\model.js:2426:7)\n    at async user.create (C:\\Users\\aadha\\UserLogin\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async module.exports.addUser (C:\\Users\\aadha\\UserLogin\\app\\controllers\\userController.js:106:27)"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}

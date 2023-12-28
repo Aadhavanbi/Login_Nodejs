@@ -1,0 +1,4 @@
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
+{"level":"info","message":"Executing (default): SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_NAME = 'users' AND TABLE_SCHEMA = 'user'"}
+{"level":"info","message":"Executing (default): SHOW INDEX FROM `users` FROM `user`"}
